@@ -1,7 +1,7 @@
 # Customer Support Assistant 
 The Customer Support Assistant is a simple, rule-based Python assistant designed to help respond to customer inquiries about a smoked food business. It provides relevant replies to frequently asked questions about available products and politely handles unusual queries. This project is beginner-friendly and can be extended for other types of businesses.
 
-Setup Instructions
+# Setup Instructions
 
 Clone the Repository
 
