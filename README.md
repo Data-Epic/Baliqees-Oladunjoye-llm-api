@@ -1,10 +1,16 @@
 # Customer Support Assistant 
 The Customer Support Assistant is a simple, rule-based Python assistant designed to help respond to customer inquiries about a smoked food business. It provides relevant replies to frequently asked questions about available products and politely handles unusual queries. This project is beginner-friendly and can be extended for other types of businesses.
+
 Setup Instructions
+
 Clone the Repository
-	Open your terminal or Git Bash and run:
-git clone https://github.com/your-username/customer_support.git
+
+Open your terminal or Git Bash and run:
+
+git clone https://github.com/Data-Epic/Baliqees-Oladunjoye-llm-api.git
+
 cd customer_support
+
 # Install Required Dependencies
 	If you have a requirements.txt file:
 	pip install -r requirements.txt
