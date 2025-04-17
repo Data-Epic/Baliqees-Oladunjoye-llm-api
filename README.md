@@ -18,12 +18,19 @@ cd customer_support
 	pip install pytest
 # How to Run the Assistant
 You can run the assistant from your Python script or shell by importing the class and calling the get_response() method.
+
 from CSA import CustomerSupportAssistant
+
 assistant = CustomerSupportAssistant()
+
 response = assistant.get_response("Do you sell smoked fish?")
+
 print(response)
+
 To ensure the assistant is working correctly, you can run:
+
 Pytest
+
 This will execute all test cases in test_CSA.py.
 
 # Example Usage
@@ -55,8 +62,11 @@ Enable logging and feedback handling for improvement over time.
 Support for multilingual responses and personalization.
 
 # Author
+
 Baliqees Oladunjoye
+
 LinkedIn: https://www.linkedin.com/in/baliqees-oladunjoye-986260bb/
+
 Email: baliqeesoladunjoye@gmail.com
 
 
