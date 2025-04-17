@@ -28,36 +28,31 @@ This will execute all test cases in test_CSA.py.
 
 # Example Usage
 assistant.get_response("Do you sell smoked chicken?")
+
 #Output: "Yes! We offer delicious smoked chicken prepared with traditional spices..."
 
 assistant.get_response("Do you sell dragons?")
+
 #Output: "Thank you for reaching out! Unfortunately, we don't sell dragons as they are mythical creatures..."
 
-Limitations
+# Limitations
 The assistant uses simple keyword matching and may not understand very complex or unrelated questions.
-
 
 It does not connect to a live inventory or database.
 
-
 It cannot learn or adapt based on user input (no machine learning is used).
 
-
 # Future Improvements
-Add natural language processing (NLP) for better question understanding.
 
+Add natural language processing (NLP) for better question understanding.
 
 Integrate a web interface or chatbot (e.g., WhatsApp, Telegram, or web app).
 
-
 Connect to a real-time product inventory system.
-
 
 Enable logging and feedback handling for improvement over time.
 
-
 Support for multilingual responses and personalization.
-
 
 # Author
 Baliqees Oladunjoye
